@@ -39,7 +39,7 @@ export default function Sponsorship() {
 
         <section className="mb-12">
           <h2 className="text-4xl font-semibold mb-8 text-blue-600">
-            Co-Sponsorship for National Tournament
+            Co-Sponsorship Consists:
           </h2>
           <div className="mb-8">
             <h3 className="text-3xl font-semibold mb-4 text-blue-600">Main Sponsorship Consists:</h3>

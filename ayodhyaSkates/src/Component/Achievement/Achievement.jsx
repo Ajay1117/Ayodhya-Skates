@@ -1,10 +1,10 @@
 import React from 'react';
 
 const achievements = [
-  { id: 1, title: 'State Championship', src: './ach1.JPG' },
-  { id: 2, title: 'State Championship', src: './ach42.JPG' },
-  { id: 3, title: 'State Championship', src: './ach23.JPG' },
-  { id: 4, title: 'State Championship', src: './ach4.JPG' },
+  { id: 1, title: 'State Championship', src: './galary/20.jpeg' },
+  { id: 2, title: 'District Championship', src: './ach42.JPG' },
+  { id: 3, title: 'District Championship', src: './ach23.JPG' },
+  { id: 4, title: 'State Championship', src: './galary/24.jpeg' },
 ];
 
 const Achievement = () => {

@@ -11,15 +11,15 @@ export default function AGM() {
     speed: 600,
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoplaySpeed: 4000,
+    autoplaySpeed: 2000,
     arrows: true,
   };
 
   const images = [
     '/ach1.JPG',
-    '/heroSectionImages/3.jpeg',
-    '/heroSectionImages/5.jpeg',
-    '/heroSectionImages/6.jpeg',
+    '/galary/8.jpeg',
+    '/galary/2.jpeg',
+    '/galary/3.jpeg',
     '/heroSectionImages/7.jpeg',
     '/heroSectionImages/8.jpeg',
   ];

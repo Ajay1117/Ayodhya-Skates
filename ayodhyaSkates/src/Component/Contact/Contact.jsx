@@ -69,6 +69,19 @@ const Contact = () => {
               />
             </div>
 
+            {/* Type of Inquiry Dropdown */}
+            <div className="flex flex-col">
+              <label htmlFor="inquiryType" className="text-gray-700 text-lg">Type of Inquiry</label>
+              <select
+                id="inquiryType"
+                className="border-2 border-gray-300 p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+              >
+                <option value="student">Student</option>
+                <option value="parent">Parent</option>
+                <option value="school">School</option>
+              </select>
+            </div>
+
             <div className="flex flex-col">
               <label htmlFor="message" className="text-gray-700 text-lg">Message</label>
               <textarea
